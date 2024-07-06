@@ -26,7 +26,7 @@ ctk.set_default_color_theme("dark-blue")
 
 class App:
     def __init__(self) -> None:
-         
+        
         self.screen = tk.Tk()
         self.screen.configure(bg="black")
         self.screen.title("Password Generator")
