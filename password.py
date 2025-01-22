@@ -1,5 +1,5 @@
 import string
-import random
+import random 
 
 def generate_password(length=8):
 
